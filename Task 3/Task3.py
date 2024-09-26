@@ -1,7 +1,3 @@
-Pic bhejo replit ki
-Yaar yee kiyaa baat hui
-Aik to mai apna kaam choor k tumhein pehly krr k detaa baad mai batein b sunaati hoo
-That's not fair
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
